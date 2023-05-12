@@ -3,9 +3,9 @@
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "https://Wiecek-K.github.io/react-hw-01-components-ts/",
 	"scripts": {
 		"start": "vite",
+		"run": "vite",
 		"build": "tsc && vite build",
 		"lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
 		"preview": "vite preview"
