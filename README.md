@@ -69,7 +69,7 @@ icon, and in the drop-down window, follow the link `Details`.
 ### Live page
 
 After some time, usually a couple of minutes, the live page can be viewed at the
-address specified in the edited `homepage` property. For example, here is a link
+address `https://<your-gh-name>.github.io/<your-repo-name>/` property. For example, here is a link
 to a live version for this repository
 [https://wiecek-k.github.io/vite-react-ts-template/](https://wiecek-k.github.io/vite-react-ts-template/).
 
